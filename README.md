@@ -1,4 +1,5 @@
 # 💰 个人记账本
+#记账用的
 
 基于 **Python + Streamlit + SQLite3** 的 Web 记账工具，纯 Python 实现，无需前端知识，开箱即用。
 
